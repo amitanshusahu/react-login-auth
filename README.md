@@ -5,6 +5,8 @@ a login auth with react js
 * Mongodb / remote mongodb cluster uri
 # script
 <code>
-  $ node i <br>
-  $ npm start
+  $ node i
 </code>
+<code>
+    $ npm start
+  </code>
