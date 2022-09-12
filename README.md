@@ -4,9 +4,5 @@ a login auth with react js
 * Nodejs  
 * Mongodb / remote mongodb cluster uri
 # script
-<code>
-  $ node i  
-  
-  <hr>
-  $ npm start
-</code>
+> npm i  
+> npm start
