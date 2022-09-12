@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+/* utilities */
+:root{
+  --primary:rgb(255, 244, 245);
+  --pop:rgb(118, 255, 184);
+}
+button{
+  margin: 10px;
+  background-color: rgb(118, 255, 184);
+  border: 2px solid rgb(198, 255, 225);
+  padding: 10px;
+  border-radius: 10px;
+  opacity: 0.9;
+}
+button:hover{
+  opacity: 1;
+  transform: scale(1.05);
+}
+.btn-l{
+
+}
+.border-highlight{
+  border : 2px solid rgb(219, 219, 219)
+}
+.border-highlight:hover{
+  border:2px solid rgb(0, 0, 0);
+}
+.border-highlight:focus{
+  border:2px solid rgb(233, 255, 222);
+}
+.center{
+  text-align: center;
+}

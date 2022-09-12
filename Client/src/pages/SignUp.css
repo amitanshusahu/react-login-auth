@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(255, 244, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+.formContainer{
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 5px 5px rgba(255, 198, 236, 0.17) ,0 0 5px 5px rgba(255, 128, 183, 0.078);
+}
+form input{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(77, 77, 77);
+    border-radius: 10px;
+}
