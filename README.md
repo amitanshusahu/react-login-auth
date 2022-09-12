@@ -6,6 +6,8 @@ a login auth with react js
 # script
 <code>
   $ node i
+  <br>
+  $ npm start
 </code>
 <code>
     $ npm start
